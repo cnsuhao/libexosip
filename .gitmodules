@@ -1,0 +1,3 @@
+[submodule "exosip"]
+	path = exosip
+	url = git://git.savannah.nongnu.org/exosip.git
